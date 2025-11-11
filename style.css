@@ -104,7 +104,7 @@ header .navbar .navbar-heading:hover,
     }
 
     header.scrolled .navbar .navbar-heading {
-        color: #9333ea;
+        color: #4c00fe;
         transition: color 0.3s ease;
     }
 
@@ -857,7 +857,7 @@ Contact section CSS
 Footer Styles
 ***********************/
 .footer-container {
-    background: linear-gradient(to left, #9333ea, #6366f1);
+    background: linear-gradient(to left, #2193b0, #6dd5ed);
     color: #ffffff;
     padding: 3rem 1rem 0;
     position: relative;
